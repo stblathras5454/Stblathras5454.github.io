@@ -1,0 +1,3 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+Software_Design/CS330_SoftwareEngineering_3DScene_Enhanced.zip filter=lfs diff=lfs merge=lfs -text
+Software_Design/CS330_SoftwareEngineering_3DScene_Original.zip filter=lfs diff=lfs merge=lfs -text
