@@ -1,45 +1,30 @@
-# Steven Blathras – CS499 Capstone Portfolio
+CS 499 ePortfolio – Steven Blathras
+Overview
 
-Welcome to my GitHub Pages site for my CS499 Computer Science Capstone.
+This repository contains my ePortfolio for the CS 499 Computer Science Capstone at Southern New Hampshire University. It showcases the skills and knowledge I have gained throughout the program, demonstrated through enhancements to a single artifact across three categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.
 
-This portfolio highlights three original and enhanced projects that demonstrate my skills in:
+The portfolio highlights both technical growth and professional development, while also serving as a resource for future employers to evaluate my abilities as a computer scientist.
 
-- **Software Design and Engineering**
-- **Algorithms and Data Structures**
-- **Databases**
+Enhancements
+1. Software Design and Engineering
 
-Each artifact includes:
-- The original version as submitted in a prior course
-- An enhanced version that improves upon the original
-- A written narrative explaining the enhancement and how it aligns with CS program outcomes
+Artifact: CS 330 – 3D Graphics Scene (OpenGL/C++)
 
----
+Enhancements: Improved structure and readability of SceneManager.cpp by refactoring code and adding professional comments. Implemented small but meaningful design changes to align with industry best practices.
 
-## 🔗 Artifacts by Category
+2. Algorithms and Data Structures
 
-### 📁 Software Design and Engineering (CS330)
-- [Enhanced Version](Software_Design/CS330_Enhanced.zip)
-- [Original Version](Software_Design/CS330_Original.zip)
-- [Narrative](Software_Design/SoftwareEngineering_Narrative.docx)
+Artifact: CS 340 – Animal Shelter MongoDB Dashboard (Python/Dash)
 
-### 📁 Algorithms and Data Structures (CS360)
-- [Enhanced Version](Algorithms_Data/CS360_Enhanced.zip)
-- [Original Version](Algorithms_Data/CS360_Original.zip)
-- [Narrative](Algorithms_Data/Algorithms_Data_Structures_Narrative.docx)
+Enhancements: Optimized the AnimalShelter.py CRUD module with improved error handling, algorithmic efficiency, and better data filtering logic. The Jupyter Notebook dashboard (ProjectTwoDashboard.ipynb) was also updated to include enhanced filtering, visualizations, and user interaction features.
 
-### 📁 Databases (CS340)
-- [Enhanced Version](Databases/CS340_Enhanced/)
-- [Original Version](Databases/CS340_Original/)
-- [Narrative](Databases/Databases_Narrative.docx)
+3. Databases
 
----
+Artifact: CS 340 – Animal Shelter MongoDB Dashboard (Python/Dash)
 
-## 🎥 Code Review Screencast
+Enhancements: Expanded database interaction logic to better demonstrate skills in query optimization and data management. Enhanced the connection handling in AnimalShelter.py and refined MongoDB queries for efficiency and scalability.
 
-[Watch my Code Review Video](https://your-youtube-or-hosted-link.com)
+Code Review
 
----
-
-## 📄 Final Reflection
-
-My final professional self-assessment and milestone journals are available as part of the final submission in my course LMS.
+A recorded video walkthrough of my original artifacts and enhancement process.
+👉 Watch the Code Review Video
