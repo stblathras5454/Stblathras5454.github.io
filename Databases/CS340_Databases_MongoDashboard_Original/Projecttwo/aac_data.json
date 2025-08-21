@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Buddy",
+        "breed": "Labrador Retriever",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 52,
+        "location_lat": 30.75,
+        "location_long": -97.48
+    },
+    {
+        "name": "Max",
+        "breed": "German Shepherd",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 80,
+        "location_lat": 30.76,
+        "location_long": -97.47
+    },
+    {
+        "name": "Bella",
+        "breed": "Golden Retriever",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 100,
+        "location_lat": 30.74,
+        "location_long": -97.49
+    },
+    {
+        "name": "Rocky",
+        "breed": "Doberman Pinscher",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 60,
+        "location_lat": 30.77,
+        "location_long": -97.45
+    },
+    {
+        "name": "Sadie",
+        "breed": "Chesapeake Bay Retriever",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 72,
+        "location_lat": 30.73,
+        "location_long": -97.5
+    },
+    {
+        "name": "Luna",
+        "breed": "Newfoundland",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 96,
+        "location_lat": 30.78,
+        "location_long": -97.44
+    },
+    {
+        "name": "Duke",
+        "breed": "Alaskan Malamute",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 90,
+        "location_lat": 30.79,
+        "location_long": -97.46
+    },
+    {
+        "name": "Bailey",
+        "breed": "Old English Sheepdog",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 85,
+        "location_lat": 30.72,
+        "location_long": -97.51
+    },
+    {
+        "name": "Lucy",
+        "breed": "Labrador Retriever",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 78,
+        "location_lat": 30.75,
+        "location_long": -97.43
+    },
+    {
+        "name": "Rex",
+        "breed": "German Shepherd",
+        "animal_type": "Dog",
+        "age_upon_outcome_in_weeks": 65,
+        "location_lat": 30.71,
+        "location_long": -97.52
+    }
+]
