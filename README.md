@@ -28,3 +28,8 @@ Code Review
 
 A recorded video walkthrough of my original artifacts and enhancement process.
 👉 Watch the Code Review Video
+
+In this video, I review my original artifacts, highlight areas for improvement, and explain my planned enhancements across software design, algorithms, and databases.
+
+▶️ **Download or Watch the Video**:  
+[Code Review (GitHub Release)](https://github.com/stblathras5454/Stblathras5454.github.io/releases/download/v1.0-code-review/code-review.mp4)
